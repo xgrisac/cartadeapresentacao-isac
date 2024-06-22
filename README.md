@@ -1,1 +1,1 @@
-Projeto simples de apresentação pessoal para o projeto de desenvolvimento Front-End do CódigoCerto.
+Projeto simples de apresentação pessoal para ingressar no projeto de desenvolvimento Front-End do CódigoCerto.
