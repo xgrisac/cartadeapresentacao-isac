@@ -42,24 +42,24 @@
         justify-content: space-evenly;
         height: 720px;
         align-items: center;
+        text-align: center;
         margin: 40px;
     }
-   
 
    .section2 h2 {
     font-size: 50px;
-    text-align: center;
+
     }
 
     .section2 p {
     font-size: 20px;
-    text-align: center;
+
     }
 
     .section2 img {
         height: 100px;
         width: 100px;
-        padding: 0px 150px 0px 0px;
+        padding: 10px;
     }
 
 }
@@ -202,7 +202,7 @@ nav ul.painel2 {
 }
 
 #desenvolvimento2 {
-    height: 720px;
+    text-align: center;
     align-items: center;
     margin: 40px;
 }
@@ -213,24 +213,15 @@ span#meunome2 {
 
 .section2 h2 {
     font-size: 50px;
-    text-align: center;
 }
 
 .section2 p {
     font-size: 20px;
-    text-align: center;
 }
 
 .section2 img {
     height: 100px;
     width: 100px;
-    padding-left: 150px;
-    align-items: auto;
-}
-
-.container2 {
-    position: relative;
-    line-height: 10px;
 }
 
 #footer2 {
